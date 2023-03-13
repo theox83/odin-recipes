@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+this project has me creating a basic recipe website, after completion I would have deminstrated how to write a index page along with other pages linked together using the proper html tags , and how to add images to make web page more appealing. And how to use git to stage commit and push my project to github to save progress though out the project.
